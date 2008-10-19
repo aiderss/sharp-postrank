@@ -1,0 +1,7 @@
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\bin\Debug\PostRankTester.exe
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\bin\Debug\PostRankTester.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\obj\Debug\PostRankTester.exe
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\obj\Debug\PostRankTester.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\bin\Debug\PostRankSharp.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankTester\bin\Debug\PostRankSharp.pdb

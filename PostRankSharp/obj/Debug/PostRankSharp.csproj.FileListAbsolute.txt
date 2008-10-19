@@ -1,0 +1,5 @@
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\bin\Debug\PostRankSharp.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\bin\Debug\PostRankSharp.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Debug\PostRankSharp.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Debug\PostRankSharp.pdb

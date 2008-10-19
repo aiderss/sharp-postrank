@@ -1,0 +1,7 @@
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Debug\AideRssDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Debug\AideRssDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Debug\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Debug\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Debug\AideRssDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Debug\AideRssDA.pdb

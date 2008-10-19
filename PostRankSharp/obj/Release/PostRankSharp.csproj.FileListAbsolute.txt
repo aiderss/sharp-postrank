@@ -1,0 +1,12 @@
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Release\AideRssDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Release\AideRssDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Release\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\bin\Release\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Release\AideRssDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\AideRssDA\obj\Release\AideRssDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\bin\Release\PostRankSharp.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\bin\Release\PostRankSharp.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Release\PostRankSharp.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\PostRankSharp\PostRankSharp\obj\Release\PostRankSharp.pdb
